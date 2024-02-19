@@ -23,8 +23,8 @@ After downloading the respiratory, you can adopot the model and you'll be able t
 
 ## 2D to 3D Mapping
 
-  After the spherical projection and segmentation, we map our images back to 3Dspace
-  Also, export the Colored Point Cloud into a las file
+  After the spherical projection and segmentation, we map our images back to 3Dspace.  
+  Furthermore, we export the Colored Point Cloud into a las file.
   ![image](https://github.com/MaxSummerer/SAMScanNet2plus/assets/135828831/409fc945-87ca-4a2b-a6fd-7fdd64a65ddf)
 
   
