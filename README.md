@@ -13,10 +13,10 @@
 If you're interested in setting up your own model, you can apply for the dataset here: https://kaldir.vc.in.tum.de/scannetpp/
 
 ## SAM Segmentation and Downloading SAM
-For further information check out the respiratory:
+For further information check out the repository:
 https://github.com/facebookresearch/segment-anything
 
-After downloading the respiratory, you can adopot the model and you'll be able to segment the images quite easily following our instructions!
+After downloading the repository, you can adopot the model and you'll be able to segment the images quite easily following our instructions!
 
  ![pc_aligned_1_0](https://github.com/MaxSummerer/SAMScanNet2plus/assets/135828831/85804387-6eb6-48c0-bf5c-ce8355b4ae45)
   ![pc_aligned_1_0](https://github.com/MaxSummerer/SAMScanNet2plus/assets/135828831/d3c6903e-87cb-4d82-bd7e-4939b740ac52)
